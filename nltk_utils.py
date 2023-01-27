@@ -23,13 +23,3 @@ def bag_of_words(tokenized_sentence,words):
 
 
 
-# a= "how are you boy" 
-# print(a) 
-# a=tokenize(a)
-# print(a)
-
-# stemming checking
-# words = ["organize","organizing","organizers"]
-# stemmed_words=[stem(w) for w in words]
-# print(stemmed_words)
-
