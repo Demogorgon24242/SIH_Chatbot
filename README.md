@@ -1,6 +1,6 @@
 # Chatbot in PyTorch
 
-This is a simple Conversational AI that was developed by me and @KuberVajpayee during the final presentation phase in SIH 2022
+This is a simple Conversational AI that was developed by me and Kuber Vajpayee(https://github.com/kuber2001) during the final presentation phase in SIH 2022
 It is hosted on Telegram and can easily be deployed on the local systems create your own Telegram Bot that uses NLP.
 
 # Introduction
